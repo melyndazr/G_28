@@ -30,9 +30,7 @@ import javax.swing.JTable;
 
    
     
-    public GestionnaireBiensImmobilier() {
-        // Initialisez les champs ou effectuez d'autres opérations nécessaires
-    }
+    public GestionnaireBiensImmobilier() { }
 
     
     
